@@ -1,6 +1,6 @@
 {
   "name": "@imnvk/hope-ui",
-  "version": "1.4.2",
+  "version": "1.4.4",
   "author": "imnvk",
   "main": "./lib/index.js",
   "module": "./lib/index.es.js",
